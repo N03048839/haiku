@@ -3,9 +3,9 @@
 This is a simple program that generates a syntactically-correct haiku -- 
 a short, 3-line poem of the following form:
   <p><i>
-  5 syllables
-  7 syllables
-  5 syllables 
+  5 syllables <br>
+  7 syllables <br>
+  5 syllables <br>
   </i>
   
 It uses a graph as a state machine to progress through a sentence using proper syntax; given the previously selected word's part of speech, it chooses an appropriate part of speech for the word that will follow it. 
