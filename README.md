@@ -2,7 +2,7 @@
 
 This is a simple program that generates a syntactically-correct haiku -- 
 a short, 3-line poem of the following form:
-  <i>
+  <p><i>
   5 syllables
   7 syllables
   5 syllables 
