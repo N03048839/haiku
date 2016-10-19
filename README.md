@@ -1,4 +1,5 @@
-# haiku
+# Haiku Generator
+(c) 2015 Joe Giannitti
 
 This is a simple program that generates a syntactically-correct haiku -- 
 a short, 3-line poem of the following form:
